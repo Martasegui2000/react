@@ -1,0 +1,56 @@
+body {
+  background-image: url("retro1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+p {
+  color: floralwhite;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h1 {
+  color: floralwhite;
+}
+
+article {
+  background: rgba(0, 0, 0,.7);
+}
+
+
+.row {
+  margin-left: 400px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgba(0, 0, 0,.7);
+  margin-top: 20px;
+}
+
+
+header {
+  margin-bottom: 40px;
+}
+
+title {
+  color: floralwhite;
+}
+
+li {
+  color: floralwhite;
+}
+
+h5 {
+  color: floralwhite;
+}
+
+ol {
+  color: floralwhite;
+}
+
+.col-2 {
+  margin-right: 30px;
+  margin-top: 20px;
+}
